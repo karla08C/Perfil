@@ -1,6 +1,6 @@
 # Karla Castro
 
-**Desenvolvedora de Software & Gestão de Comunidadesr**  
+**Desenvolvedora de Software & Gestão de Comunidades Tech**  
 📍 Fortaleza, CE — Brazil  
 💼 Atuação focada em Desenvolvimento de Software, Otimização de Processos e Liderança de Comunidades Técnicas.
 
