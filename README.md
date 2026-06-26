@@ -1,53 +1,54 @@
-# Perfil
- Meu portfólio de projetos e aprendizados em Análise e Desenvolvimento de Sistemas 🚀
-# Olá, eu sou a Karla! 👋
+# Olá, eu sou a Karla Mota! 👋
 
-🌟 Bem-vindo(a) ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, programação e finanças.
+Alineando minha experiência em finanças e gestão com a paixão por tecnologia, hoje atuo como **Estagiária em Desenvolvimento FullStack** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. 
 
----
-
-## 👩‍💻 Sobre Mim
-
-- 🎓 Estudante de ADS, sempre em busca de novos conhecimentos.
-- 💡 Aprendendo e praticando: **Python**, **HTML5**, **CSS3** e **JavaScript**.
-- 📊 Fã de finanças e de como a tecnologia pode transformar esse universo.
-- 🤝 Adoro colaborar e trocar ideias em projetos de código aberto!
-- 💬 Amo conversar sobre tecnologia, inovação.
-
+Além do código, sou movida pelo impacto social da tecnologia, liderando e movimentando comunidades tech locais para conectar pessoas e compartilhar conhecimento.
 
 ---
 
-## 👩‍🎤 Orgulho GirlTech
-
-- 💪 Apoio e incentivo a participação de mulheres na tecnologia!
-- 👩‍💻 Participo/acompanho iniciativas como o **GirlTech**, que inspira, conecta e fortalece mulheres na área de TI.
-
-
----
-
-## 🛠️ Tecnologias & Ferramentas  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🚀 Sobre Mim
+- 💼 **Momento Atual:** Estagiária de Desenvolvimento FullStack na Aethos Tech.
+- 👥 **Comunidades:** Organizadora e líder nas comunidades **GitTogether** e **Coda.ce**, fortalecendo o ecossistema de tecnologia em Fortaleza/CE.
+- 🎯 **Foco de Carreira:** Desenvolvimento Web End-to-End, Engenharia de Software e soluções com Inteligência Artificial.
+- 🎓 **Formação:** Graduanda em ADS e Pós-graduada em Controladoria e Finanças.
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🛠️ Minhas Habilidades e Tecnologias
 
-- *Em breve novidades dos meus projetos!*
-- Tem uma ideia de projeto para me sugerir? Me chame para conversar!
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚡ Frontend</h4>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>⚙️ Backend & Dados</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contato
+### 📊 Estatísticas do GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-castro-63910466/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karla08C&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Karla" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karla08C&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
+</p>
 
 ---
 
+### 🌐 Vamos nos conectar?
+Mantenho minhas redes sempre atualizadas com conteúdos sobre desenvolvimento, IA e eventos de comunidade.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-mota)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+_💡 "A melhor forma de prever o futuro é construindo-o, linha por linha."_
