@@ -53,5 +53,4 @@ Sinta-se à vontade para iniciar uma conexão para parcerias em projetos, comuni
 ---
 <p align="center"><i>"Construindo lógica, transformando processos e conectando pessoas."</i></p>
 
----
-<p align="center"><i>"Construindo lógica, transformando processos e conectando pessoas."</i></p>
+
